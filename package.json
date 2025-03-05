@@ -1,7 +1,7 @@
 {
   "name": "give-me-gradient",
-  "version": "1.0.0",
-  "description": "This is simple Package that return a string of grident color which you have pass values of color and grident type",
+  "version": "1.0.2",
+  "description": "Generate beautiful random gradients",
   "keywords": [
     "gradient-color",
     "color"
@@ -18,6 +18,10 @@
   "author": "Nirav Mathukiya",
   "type": "commonjs",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
