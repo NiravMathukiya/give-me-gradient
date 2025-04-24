@@ -1,15 +1,12 @@
 {
   "name": "give-me-gradient",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate beautiful random gradients",
   "keywords": [
     "gradient-color",
     "color"
   ],
-  "homepage": "https://github.com/NiravMathukiya/give-me-gradient#readme",
-  "bugs": {
-    "url": "https://github.com/NiravMathukiya/give-me-gradient/issues"
-  },
+  "homepage": "https://github.com/NiravMathukiya/give-me-gradient",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NiravMathukiya/give-me-gradient.git"
